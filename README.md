@@ -4,7 +4,7 @@
 
 **KeyDivide Fauder 64**
 
-Акутуальная версия с поддержкой VIA - ../orto_mini_52
+Акутуальная версия с поддержкой VIA - [../orto_mini_52]
 
 ![Alt Text](https://sun9-75.userapi.com/impg/qessFthFyZX7N7TvXm1x_B8AgJBXGtINR-BiyA/lzVJZ-VBx14.jpg?size=1278x758&quality=95&sign=01fd8b9e28723a10f243290ef66c8e3c&type=album)
 
