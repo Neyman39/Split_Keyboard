@@ -1,15 +1,16 @@
-# split_65
+# Founder 64
 
-![split_65](https://i.imgur.com/hUTqwmv.png)
+![founder_64](https://sun9-75.userapi.com/impg/qessFthFyZX7N7TvXm1x_B8AgJBXGtINR-BiyA/lzVJZ-VBx14.jpg?size=1278x758&quality=95&sign=01fd8b9e28723a10f243290ef66c8e3c&type=album)
 
-split_65 is a split, 65% layout keyboard with left function column designed for improved ergonomics and comfort.
 
-* Keyboard Maintainer: [jtallbean](https://github.com/samlli)
-* Hardware Supported: split_65
-* Hardware Availability: N/A
+**Founder 64** — это разделенная клавиатура с 60%-ной раскладкой, основанная на стандартной ANSI, разработанная для улучшения эргономики и комфорта, поддерживает VIA и имеет 2 функциональных слоя.
 
-Make example for this keyboard (after setting up your build environment):
+* Разработчик клавиатуры: [neyman](https://github.com/Neyman39)
+* Поддерживаемое оборудование: founder_64
+* Доступность оборудования: N/A
 
-    make handwired/jtallbean/split_65:default
+Компиляция сборки для этой клавиатуры:
 
-See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
+    qmk compile -kb cacaosplit/founder_64 -km via
+
+Если понадобиться что-то изменить, есть подробная документация [QMK Firmware](https://docs.qmk.fm/#/newbs).
