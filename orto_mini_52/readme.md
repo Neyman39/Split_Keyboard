@@ -1,15 +1,18 @@
-# split_65
+# Ortomini 52
 
-![split_65](https://i.imgur.com/hUTqwmv.png)
+![orto_mini_52](https://sun78-1.userapi.com/impg/-45H8F4BVTlek2xM_ghuF2h61OskNj9QJYKjZQ/eLf0aCHbOVU.jpg?size=1278x758&quality=95&sign=52001381bec453cc0f8df7db8e5b759e&type=album)
 
-split_65 is a split, 65% layout keyboard with left function column designed for improved ergonomics and comfort.
+![orto_mini_52](https://sun9-10.userapi.com/impg/xGd7bI8tm7GFbIg2IfFptJw6n790qjM3DPodcw/raJx6Rpc2z8.jpg?size=1278x758&quality=95&sign=f67681c9c7dda2431021f7325e21150a&type=album)
 
-* Keyboard Maintainer: [jtallbean](https://github.com/samlli)
-* Hardware Supported: split_65
-* Hardware Availability: N/A
 
-Make example for this keyboard (after setting up your build environment):
+Ortomini 52 — это разделенная клавиатура с 50%-ной раскладкой и ортолинейным строением (кнопка под кнопкой), разработанная для улучшения эргономики и комфорта, поддерживает VIA и имеет 3 функциональных слоя.
 
-    make handwired/jtallbean/split_65:default
+* Разработчик клавиатуры: [neyman](https://github.com/Neyman39)
+* Поддерживаемое оборудование: orto_mini_52
+* Доступность оборудования: N/A
 
-See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
+Компиляция сборки для этой клавиатуры:
+
+    qmk compile -kb cacaosplit/orto_mini_52 -km via
+
+Если понадобиться что-то изменить, есть подробная документация [QMK Firmware](https://docs.qmk.fm/#/newbs).
